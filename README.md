@@ -1,5 +1,7 @@
 # Car Parking Space Counter
 
+![](https://visitor-badge.laobi.icu/badge?page_id=yashchinchole/Car-Parking-Space-Counter)
+
 ## Description
 
 The Car Parking Space Counter is a project designed to calculate the number of available parking spaces using computer vision techniques. By leveraging OpenCV and CVZone's Haar Cascade algorithm, the system provides real-time monitoring and management of parking occupancy, significantly enhancing efficiency and convenience for users.
